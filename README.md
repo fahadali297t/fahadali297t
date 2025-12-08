@@ -41,7 +41,7 @@ I love writing clean code, automating workflows, and creating digital experience
 
 ## 🏆 Stats & Achievements  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadali297t)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadali297t)](https://github.com/fahadali297t/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fahadali297t&show_icons=true&theme=tokyonight" width="54%" />
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=fahadali297t&layout=compact&theme=tokyonight" width="45%" />
