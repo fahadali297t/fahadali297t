@@ -11,7 +11,7 @@ and crafting modern front-end experiences using **React.js**.
 I love writing clean code, automating workflows, and creating digital experiences that feel alive.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abubakr&label=Profile%20Views&color=0e75b6&style=flat" alt="fahadali297t" />
+  <img src="https://komarev.com/ghpvc/?username=fahadali297t&label=Profile%20Views&color=0e75b6&style=flat" alt="fahadali297t" />
 </p>
 
 ---
@@ -44,11 +44,6 @@ I love writing clean code, automating workflows, and creating digital experience
 <p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=fahadali297t&show_icons=true&theme=tokyonight" width="54%" />
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=fahadali297t&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahadali297t&theme=tokyonight" width="60%" />
 </p>
 
 ---
