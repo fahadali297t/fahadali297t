@@ -51,13 +51,13 @@ I love writing clean code, automating workflows, and creating digital experience
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-ali-369649355/">
+  <a target="blank" href="https://www.linkedin.com/in/fahad-ali-369649355/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/zfahad4">
+  <a target="blank" href="https://www.facebook.com/zfahad4">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://wa.me/923198656216">
+  <a target="blank" href="https://wa.me/923198656216">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
