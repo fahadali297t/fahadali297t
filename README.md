@@ -48,7 +48,7 @@ I love writing clean code, automating workflows, and creating digital experience
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anasn5020&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahadali297t&theme=tokyonight" width="60%" />
 </p>
 
 ---
