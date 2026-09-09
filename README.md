@@ -30,11 +30,4 @@ I love writing clean code, automating workflows, and creating digital experience
 
 ---
 
-## 🐍 Contribution Snake (WORKING MIRROR VERSION)  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### ⭐ If you like my work, consider giving a star to my repositories!  
