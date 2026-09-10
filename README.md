@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#f72585;">Fahad Ali</span></h1>
-<h3 align="center">🚀 Fullstack Developer | Laravel  • React.js</h3>
+<h3 align="center">🚀 Laravel Backend Developer</h3>
 
 <br/>
 
